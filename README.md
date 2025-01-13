@@ -1,4 +1,4 @@
-# PLANISPHERE with the option of Lithuanian language 
+### PLANISPHERE with the option of Lithuanian language 
 
 
 ## Make your own cardboard model planisphere
