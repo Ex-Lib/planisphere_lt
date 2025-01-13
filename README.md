@@ -19,7 +19,7 @@ To make planisphere models for all latitudes, at five degree intervals, run the 
 
 Planispheres do not work well when used close to the equator. The scripts in this repository do not allow you to create planispheres for latitudes between 15&deg;N and 15&deg;S, as the celestial pole is too close to the horizon.
 
-## Author
+### Author
 
 This code was developed by Dominic Ford <https://dcford.org.uk>. It is distributed under the Gnu General Public License V3.
 
