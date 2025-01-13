@@ -1,7 +1,7 @@
 ### PLANISPHERE with the option of Lithuanian language 
 
 
-## Make your own cardboard model planisphere
+### Make your own cardboard model planisphere
 
 This repository contains Python scripts that can be used to produce a cardboard cut-and-glue kit to make your own model planisphere.
 
