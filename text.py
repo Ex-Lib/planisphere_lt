@@ -429,7 +429,7 @@ text: Dict[str, dict] = {
        "lt":
         {
             "title": "Planisfera",
-            "instructions_1": "Sukite žvaigždžių diską, kol rasite tašką jo krašte, kuriame pažymėta atitinkamą datą, ir sulygiuokite šį tašką su atitinkamu laiku. Peržiūros lange bus rodomi tuo metu danguje matomi žvaigždynai.",
+            "instructions_1": "Sukite žvaigždžių diską, kol rasite tašką jo krašte, kuriame pažymėta atitinkama data, ir sulygiuokite šį tašką su atitinkamu laiku. Peržiūros lange bus rodomi tuo metu danguje matomi žvaigždynai.",
             "instructions_2": "Išeikite į lauką ir atsisukite į šiaurę. Laikykite planisferą akių lygyje, užrašu „Šiaurė“ į apačią. Žvaigždės stebėjimo langelio apačioje turėtų atitikti žvaigždes, kurias matote danguje priešais save.",
             "instructions_3": """Atsisukite į rytus arba vakarus ir pasukite planisferą taip, kad lango apačioje būtų užrašas „Rytai“ arba „Vakarai“. Žvaigždės langelio apačioje turi atitikti žvaigždes, kurias matote danguje priešais save.""",
             "instructions_4": (
