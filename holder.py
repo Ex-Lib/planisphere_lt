@@ -197,7 +197,7 @@ class Holder(BaseComponent):
         for hr in arange(-7, 7.1, 1):
             txt: str = "{:.0f}{}".format(hr if (hr > 0) else hr + 12,
                                          "AM" if (hr > 0) else "PM")
-            if language == "fr":
+            if language == "lt":
                 txt = "{:02d}h00".format(int(hr if (hr > 0) else hr + 24))
             if hr == 0:
                 txt = ""
