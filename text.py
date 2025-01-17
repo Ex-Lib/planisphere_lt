@@ -426,22 +426,22 @@ text: Dict[str, dict] = {
                 "Vulpecula": "Lisek",
             }
         },
-        "lt":
+       "lt":
         {
-            "title": "PLANISFERA",
-            "instructions_1": "sukite žvaigždžių ratą, kol rasite tašką jo krašte, kuriame pažymėta šiandienos data, ir sulygiuokite šį tašką su esamu laiku. Dabar peržiūros lange rodomi visi danguje matomi žvaigždynai.",
-            "instructions_2": "Išeikite į lauką ir atsisukite į šiaurę. Laikykite planisferą aukštai. Žvaigždės stebėjimo langelio apačioje turėtų atitikti žvaigždes, kurias matote danguje priešais save.",
-            "instructions_3": """Atsisukite į rytus arba vakarus ir pasukite planisferą taip, kad lango apačioje būtų užrašas „Rytai“ arba „Vakarai“. Pasikartosiu: žvaigždės langelio apačioje turi atitikti žvaigždes, kurias matote danguje priešais save.""",
+            "title": "Planisfera",
+            "instructions_1": "Sukite žvaigždžių diską, kol rasite tašką jo krašte, kuriame pažymėta atitinkamą datą, ir sulygiuokite šį tašką su atitinkamu laiku. Peržiūros lange bus rodomi tuo metu danguje matomi žvaigždynai.",
+            "instructions_2": "Išeikite į lauką ir atsisukite į šiaurę. Laikykite planisferą akių lygyje, užrašu „Šiaurė“ į apačią. Žvaigždės stebėjimo langelio apačioje turėtų atitikti žvaigždes, kurias matote danguje priešais save.",
+            "instructions_3": """Atsisukite į rytus arba vakarus ir pasukite planisferą taip, kad lango apačioje būtų užrašas „Rytai“ arba „Vakarai“. Žvaigždės langelio apačioje turi atitikti žvaigždes, kurias matote danguje priešais save.""",
             "instructions_4": (
-                r"Planisfera yra paprastas rankinis prietaisas, kuriame rodomas žvaigždžių, matomų naktiniame danguje tam tikru metu, žemėlapis. Sukant žvaigždžių ratą rodoma, kaip žvaigždės juda dangumi naktį ir kaip skirtingais metų laikais matomi skirtingi žvaigždynai.",
+                r"Planisfera yra sukamasis žvaigždėlapis, kuriame rodomos žvaigždždės, matomos naktiniame danguje tam tikru metu. Sukdami žvaigždžių diską matome, kaip žvaigždės juda dangumi per parą ir kokie skirtingi žvaigždynai matomi skirtingais metų laikais.",
                 "",
-                r"Nakties dangaus žvaigždynai aplink dangaus ašigalius apsisuka kartą per 23 valandas ir 56 minutes. Idėja vaizduoti naktinį dangų kaip plokščią žemėlapį, kuris pasukamas taip, kad imituotų naktinio dangaus sukimąsi, kilo senovės graikų astronomui Hiparchui (apie 150 m. pr. m. e.). Tai, kad šis sukimasis yra keturiomis minutėmis trumpesnis už dienos ilgį, reiškia, kad žvaigždės kiekvieną dieną pakyla keturiomis minutėmis anksčiau arba pusvalandžiu anksčiau kiekvieną savaitę. Per metus nauji žvaigždynai danguje matomi prieš aušrą ir išnyksta vakaro sutemose."),
+                r"Nakties dangaus žvaigždynai aplink dangaus ašigalius apsisuka kartą per 23 valandas ir 56 minutes. Sukamąjį žvaigždėlapį arba planisferą sugalvojo senovės graikų astronomas Hiparchas (apie 150 m. pr. m. e.). Tai, kad žvaigdžių skliauto sukimasis yra keturiomis minutėmis trumpesnis už dienos ilgį, reiškia, kad žvaigždės kiekvieną dieną pakyla keturiomis minutėmis anksčiau arba pusvalandžiu anksčiau kiekvieną savaitę. Per metus nauji žvaigždynai danguje matomi prieš aušrą ir išnyksta vakaro sutemose."),
             "more_info": "Daugiau skaitykite https://in-the-sky.org/planisphere       \u00A9 Dominic Ford 2014\u20132024.",
             "glue_here": "KLIJUOTI ČIA",
             "cut_out_instructions": (
-                "Žirklėmis iškirpkite pažymėtą sritį.",
+                "Iškirpkite pažymėtą sritį.",
                 "",
-                "Tai bus apžvalgos langas, pro kurį žiūrėsite į už jo esantį žvaigždžių ratą."
+                "Tai bus apžvalgos langas, pro kurį žiūrėsite į už jo esantį žvaigždžių diską."
             ),
             "cardinal_points": {"n": "ŠIAURĖ", "s": "PIETŪS", "w": "VAKARAI", "e": "RYTAI"},
             "months": [
