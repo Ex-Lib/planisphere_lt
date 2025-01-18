@@ -1,11 +1,12 @@
-### Sukamasis žvaigždėlapis (planisfera) ir Lietuvių kalba *** Planisphere generator with the option of Lithuanian language 
+### Sukamasis žvaigždėlapis (planisfera) ir lietuvių kalba 
 
-
-### Pasigaminkite kartoninį sukamojo žvaigždėlapio (planisferos) modelį / Make your own cardboard model planisphere
-
-Čia pateikiami Python skriptai, kuriuos galima naudoti norint pasigaminti kartoninį sukamojo žvaigždėlapio arba planisferos modelį ir Lietuvių kalba (+ kelios kitos kalbos), skirtą Lietuvos geografinėms platumoms. 
+#Planisphere generator with the option of Lithuanian language
 
 This repository contains Python scripts that can be used to produce a cardboard cut-and-glue kit to make your own model planisphere in Lithuanianan language (as well as other languages).
+
+### Pasigaminkite kartoninį sukamojo žvaigždėlapio (planisferos) modelį
+
+Čia pateikiami Python skriptai, kuriuos galima naudoti norint pasigaminti kartoninį sukamojo žvaigždėlapio arba planisferos modelį ir lietuvių kalba (+ kelios kitos kalbos), skirtą bet kokiai pasaulio vietai. Lietuvos geografinės platumos:Šiaurėje – 56°27'N (į šiaurės vakarus nuo Aspariškių kaimo, Biržų raj.);Pietuose – 53°54'N (į pietryčius nuo Kabelių ir į pietus nuo Musteikos kaimų, Varėnos raj.). Platumos skirtumas iki 5° nėra reikšmingas planisferos veikimui.
 
 ### Įvadas
 
@@ -13,7 +14,7 @@ Planisfera - tai paprastas sukamasis žvaigždėlapis, kuriame matomos žvaigžd
 
 ### Kaip naudoti
 
-Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (kas 5 laipsniai) ir visomis skripte nurodytomis kalbomis. Puikiai veikia su Raspberry pi minikompiuteriu.
+Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (kas 5 laipsniai) ir visomis skripte nurodytomis kalbomis. Puikiai veikia su Raspberry pi minikompiuteriu. Suteikite skriptui linux leidimus (chmod 777 main_planisphere.sh)
 
 ### Apribojimai
 
