@@ -2,7 +2,7 @@
 
 This repository contains Python scripts that can be used to produce a cardboard cut-and-glue kit to make your own model planisphere in Lithuanianan language (as well as other languages).
 
-### Sukamasis žvaigždėlapis (planisfera) ir lietuvių kalba 
+### Sukamasis žvaigždėlapis (planisfera) lietuvių kalba 
 
 #### Pasigaminkite kartoninį sukamojo žvaigždėlapio (planisferos) modelį
 
