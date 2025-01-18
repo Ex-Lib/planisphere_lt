@@ -12,13 +12,13 @@ Kartoninei planisferai nereikia baterijos ir interneto ryšio, tačiau naudojant
 
 #### Įvadas
 
-Planisfera - tai paprastas sukamasis žvaigždėlapis, kuriame matomos žvaigždės, matomos naktiniame danguje bet kuriuo konkrečiu metu. Sukant diską rodoma, kaip žvaigždės juda dangumi naktį ir kaip skirtingu metų laiku matomi skirtingi žvaigždynai. Planisfera yra puikus dangaus orientyras, ieškant žvaigždynų, ūkų, galaktikų ir planetų. Planisfera galima naudoti, kaip mokymo priemonę. Su planisferos pagalba galima apytiksliai nustatyti laiką arba kryptį. 
+Planisfera - tai paprastas sukamasis žvaigždėlapis, kuriame parodomos žvaigždės, matomos naktiniame danguje bet kuriuo konkrečiu metu. Sukant diską rodoma, kaip žvaigždės juda dangumi naktį ir kaip skirtingu metų laiku matomi skirtingi žvaigždynai. Planisfera yra puikus dangaus orientyras, ieškant žvaigždynų, ūkų, galaktikų ir planetų. Planisfera galima naudoti, kaip mokymo priemonę. Su planisferos pagalba galima apytiksliai nustatyti laiką arba kryptį. 
 
 Kam reikalinga kartoninė, savo rankomis suklijuota planisfera, kai telefone yra daugybė žvaigždėlapio programėlių? Jeigu jums kyla toks klausimas - šis Github kampelis yra ne jums, negaiškite čia savo brangaus laiko.
 
 #### Kaip naudoti
 
-Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (kas 5 laipsniai) ir visomis skripte nurodytomis kalbomis. Geriausia naudoti kažkurią linux OS su instaliuotu python'u ir LaTex (Kile ir Okular). Puikiai veikia su Raspberry pi minikompiuteriu ir Bookworm OS. Suteikite skriptui reikiamus linux saugumo leidimus (`chmod 777 main_planisphere.sh`). Paleiskite planisferų generavimo skriptą:  `./main_planisphere.sh` arba `sudo ./main_planisphere.sh`.
+Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (nuo 80°S iki 85°N, kas 5°) ir visomis skripte nurodytomis kalbomis (anglų, vokiečių, prancūzų, lenkų, lietuvių, ukrainiečių,  ispanų ir portugalų). Geriausia naudoti kažkurią linux OS su instaliuotu python'u ir LaTex (Kile ir Okular). Puikiai veikia su Raspberry pi minikompiuteriu ir Bookworm OS. Suteikite skriptui reikiamus linux saugumo leidimus (`chmod 777 main_planisphere.sh`). Paleiskite planisferų generavimo skriptą:  `./main_planisphere.sh` arba `sudo ./main_planisphere.sh`.
 
 #### Apribojimai
 
