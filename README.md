@@ -18,7 +18,7 @@ Kam reikalinga kartoninė, savo rankomis suklijuota planisfera, kai telefone yra
 
 #### Kaip naudoti
 
-Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (kas 5 laipsniai) ir visomis skripte nurodytomis kalbomis. Geriausia naudoti kažkurią linux OS su instaliuotu pytonu ir latex. Puikiai veikia su Raspberry pi minikompiuteriu ir Bookworm OS. Suteikite skriptui reikiamus linux saugumo leidimus (chmod 777 main_planisphere.sh).Paleiskite skriptą ./main_planisphere.sh arba sudo ./main_planisphere.sh
+Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (kas 5 laipsniai) ir visomis skripte nurodytomis kalbomis. Geriausia naudoti kažkurią linux OS su instaliuotu pytonu ir latex. Puikiai veikia su Raspberry pi minikompiuteriu ir Bookworm OS. Suteikite skriptui reikiamus linux saugumo leidimus (chmod 777 main_planisphere.sh). Paleiskite planisferų gebneravimo skriptą: ./main_planisphere.sh arba sudo ./main_planisphere.sh
 
 #### Apribojimai
 
