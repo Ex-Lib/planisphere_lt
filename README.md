@@ -14,7 +14,7 @@ Planisfera - tai paprastas sukamasis žvaigždėlapis, kuriame matomos žvaigžd
 
 #### Kaip naudoti
 
-Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (kas 5 laipsniai) ir visomis skripte nurodytomis kalbomis. Geriausia naudoti kažkurią linux OS su instaliuotu pytonu ir latex. Puikiai veikia su Raspberry pi minikompiuteriu. Suteikite skriptui linux leidimus (chmod 777 main_planisphere.sh)
+Norėdami sukurti visų platumų planisferos modelius penkių laipsnių intervalais, paleiskite skriptą `main_planisphere.sh`. Planisferos dalys (.svg, .png, .pdf) sugeneruojamos "Output" direktorijoje. Planisferos sugeneruojamos įvairioms skripte nurodytoms platumoms (kas 5 laipsniai) ir visomis skripte nurodytomis kalbomis. Geriausia naudoti kažkurią linux OS su instaliuotu pytonu ir latex. Puikiai veikia su Raspberry pi minikompiuteriu ir Bookworm OS. Suteikite skriptui linux leidimus (chmod 777 main_planisphere.sh)
 
 #### Apribojimai
 
