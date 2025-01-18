@@ -6,7 +6,9 @@ This repository contains Python scripts that can be used to produce a cardboard 
 
 #### Pasigaminkite kartoninį sukamojo žvaigždėlapio (planisferos) modelį V.1
 
-Čia pateikiami Python skriptai, kuriuos galima naudoti norint pasigaminti kartoninį sukamojo žvaigždėlapio arba planisferos modelį ir lietuvių kalba (+ kelios kitos kalbos), skirtą bet kokiai pasaulio vietai. Lietuvos geografinės platumos: Šiaurėje – 56°27'N (į šiaurės vakarus nuo Aspariškių kaimo, Biržų raj.); Pietuose – 53°54'N (į pietryčius nuo Kabelių ir į pietus nuo Musteikos kaimų, Varėnos raj.). Platumos skirtumas iki 5° nėra reikšmingas šios planisferos veikimui. Kartoninei planisferai nereikia baterijos ir interneto ryšio.
+Čia pateikiami Python skriptai, kuriuos galima naudoti norint pasigaminti kartoninį sukamojo žvaigždėlapio arba planisferos modelį ir lietuvių kalba (+ kelios kitos kalbos), skirtą bet kokiai pasaulio vietai. Lietuvos geografinės platumos: Šiaurėje – 56°27'N (į šiaurės vakarus nuo Aspariškių kaimo, Biržų raj.); Pietuose – 53°54'N (į pietryčius nuo Kabelių ir į pietus nuo Musteikos kaimų, Varėnos raj.). Platumos skirtumas iki 5° nėra reikšmingas šios planisferos veikimui. 
+
+Kartoninei planisferai nereikia baterijos ir interneto ryšio.
 
 #### Įvadas
 
