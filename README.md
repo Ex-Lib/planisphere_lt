@@ -1,8 +1,8 @@
-#### Planisphere generator with the option of Lithuanian language
+#### Planisphere generator with the option of Lithuanian language V.1.
 
 This repository contains Python scripts that can be used to produce a cardboard cut-and-glue kit to make your own model planisphere in Lithuanianan language (as well as other languages).
 
-### Sukamasis žvaigždėlapis (planisfera) lietuvių kalba 
+### Sukamasis žvaigždėlapis (planisfera) lietuvių kalba V.1.
 
 #### Pasigaminkite kartoninį sukamojo žvaigždėlapio (planisferos) modelį
 
